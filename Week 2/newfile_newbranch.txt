@@ -1,1 +1,4 @@
 a new file for a new branch
+
+and this is a new line
+to test merge conflict
