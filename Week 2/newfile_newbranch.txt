@@ -1,1 +1,3 @@
 a new file for a new branch
+
+this is a different line for merge conflict
