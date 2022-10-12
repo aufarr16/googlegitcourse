@@ -5,3 +5,5 @@ this is a new file
 this is a new line for testing branch
 
 and this is a newer line
+
+this one is the newer new line
