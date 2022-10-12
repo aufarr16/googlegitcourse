@@ -1,1 +1,6 @@
 this is a new file. this is a seperate commit from new_branch1
+
+this is a new file
+
+this is a new line for testing branch
+
